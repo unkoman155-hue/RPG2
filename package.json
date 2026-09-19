@@ -1,0 +1,1 @@
+{"name":"yuusha-no-kenshoukin-rpg-online","version":"1.0.0","private":true,"description":"勇者の懸賞金RPG ONLINE","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","socket.io":"^4.8.1"},"engines":{"node":">=18"}}
